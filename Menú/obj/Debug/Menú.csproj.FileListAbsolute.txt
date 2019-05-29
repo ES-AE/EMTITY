@@ -1,0 +1,17 @@
+C:\Users\H P\source\repos\EMTITY\Menú\bin\Debug\Menú.exe.config
+C:\Users\H P\source\repos\EMTITY\Menú\bin\Debug\Menú.exe
+C:\Users\H P\source\repos\EMTITY\Menú\bin\Debug\Menú.pdb
+C:\Users\H P\source\repos\EMTITY\Menú\obj\Debug\Menú.csprojResolveAssemblyReference.cache
+C:\Users\H P\source\repos\EMTITY\Menú\obj\Debug\Menú.Form1.resources
+C:\Users\H P\source\repos\EMTITY\Menú\obj\Debug\Menú.Properties.Resources.resources
+C:\Users\H P\source\repos\EMTITY\Menú\obj\Debug\Menú.csproj.GenerateResource.cache
+C:\Users\H P\source\repos\EMTITY\Menú\obj\Debug\Menú.csproj.CoreCompileInputs.cache
+C:\Users\H P\source\repos\EMTITY\Menú\obj\Debug\Menú.exe
+C:\Users\H P\source\repos\EMTITY\Menú\obj\Debug\Menú.pdb
+C:\Users\H P\source\repos\EMTITY\Menú\bin\Debug\EntityFramework.dll
+C:\Users\H P\source\repos\EMTITY\Menú\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\H P\source\repos\EMTITY\Menú\bin\Debug\EntityFramework.xml
+C:\Users\H P\source\repos\EMTITY\Menú\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\H P\source\repos\EMTITY\Menú\obj\Debug\Menú.Form2.resources
+C:\Users\H P\source\repos\EMTITY\Menú\obj\Debug\Menú.csproj.CopyComplete
+C:\Users\H P\source\repos\EMTITY\Menú\obj\Debug\Menú.Form3.resources
